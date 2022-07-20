@@ -27,8 +27,8 @@ Database의 상거래 데이터를 파이썬에서 SQL문으로 불러와 시각
 -----
 -----
 ## RFM
-![newplot](https://user-images.githubusercontent.com/24906028/179987332-d41cf1f9-5c4f-41b5-9c58-aa3d76b05df3.png)
+![newplot](https://user-images.githubusercontent.com/24906028/179987332-d41cf1f9-5c4f-41b5-9c58-aa3d76b05df3.png)  
 
-### Recency 2016년 11월 1일 기준 고객이 언제 주문했는가
-### Frequency 얼마나 자주 주문했는가
-### Monetary 얼마나 많은 금액을 사용했는가
+Recency 2016년 11월 1일 기준 고객이 언제 주문했는가  
+Frequency 얼마나 자주 주문했는가  
+Monetary 얼마나 많은 금액을 사용했는가  
