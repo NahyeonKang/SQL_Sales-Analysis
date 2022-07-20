@@ -23,3 +23,12 @@ Database의 상거래 데이터를 파이썬에서 SQL문으로 불러와 시각
 ![newplot (11)](https://user-images.githubusercontent.com/24906028/179973653-58b6e064-87ae-4ea6-a9ab-1588a8a7375a.png)
 ## 이전 주문이후 현 주문까지 걸린 기간 히스토그램 시각화
 ![newplot (12)](https://user-images.githubusercontent.com/24906028/179973663-02722863-86d5-4d59-9bc0-963c675d63f4.png)
+
+-----
+-----
+## RFM
+![newplot](https://user-images.githubusercontent.com/24906028/179987332-d41cf1f9-5c4f-41b5-9c58-aa3d76b05df3.png)
+
+### Recency 2016년 11월 1일 기준 고객이 언제 주문했는가
+### Frequency 얼마나 자주 주문했는가
+### Monetary 얼마나 많은 금액을 사용했는가
