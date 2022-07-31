@@ -40,6 +40,18 @@ Monetary 얼마나 많은 금액을 사용했는가
 ## 웹사이트 접속 및 매출 분석
 ### Google Analytics_web.ipynb
 DAU, WAU, MAU 및 채널별 매출 분석  
+#### 일별 고유 사용자 및 세션 건수, 사용자별 평균 세션 건수
+![newplot](https://user-images.githubusercontent.com/24906028/182039187-fc0ea983-95af-461a-9d84-21f7d1cd1c26.png)
+#### 고착도(Stickiness) = DAU/MAU
+![newplot (1)](https://user-images.githubusercontent.com/24906028/182039217-97faca70-2974-4850-affc-aa036427e3b1.png)
+#### 사용자별 월별 세션 접속 횟수 구간별 분포 집계
+![newplot (2)](https://user-images.githubusercontent.com/24906028/182039226-2df41567-4133-449b-aff5-dd34ce3513b3.png)
+#### 채널별 고유/주문 사용자 건수와 매출 금액 및 비율
+![newplot (3)](https://user-images.githubusercontent.com/24906028/182039232-b6bc34f4-0281-4a96-8059-d0d731287cae.png)
+![newplot (4)](https://user-images.githubusercontent.com/24906028/182039249-cc881b87-b071-4f8e-b7cb-c02b95ab7b7a.png)
+![newplot (5)](https://user-images.githubusercontent.com/24906028/182039251-b962ac8d-fed5-41b1-a570-a2dc3dc0d491.png)
+![newplot (6)](https://user-images.githubusercontent.com/24906028/182039255-718fe6d4-06da-47a3-bdf2-1cae626600de.png)
+
 ### Google Analytics_web performance.ipynb
 이탈율(Bounce Rate), 종료율(Exit Rate), 잔존율(Retention Rate)  
 매출전환율, 전환퍼널분석
