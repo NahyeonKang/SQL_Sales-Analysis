@@ -34,3 +34,13 @@ Database의 상거래 데이터를 파이썬에서 SQL문으로 불러와 시각
 Recency 2016년 11월 1일 기준 고객이 언제 주문했는가  
 Frequency 얼마나 자주 주문했는가  
 Monetary 얼마나 많은 금액을 사용했는가  
+-----
+-----
+## 웹사이트 접속 및 매출 분석
+### Google Analytics_web.ipynb
+DAU, WAU, MAU 및 채널별 매출 분석  
+### Google Analytics_web performance.ipynb
+이탈율(Bounce Rate), 종료율(Exit Rate), 잔존율(Retention Rate)  
+매출전환율, 전환퍼널분석
+
+
