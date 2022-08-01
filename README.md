@@ -55,5 +55,14 @@ DAU, WAU, MAU 및 채널별 매출 분석
 ### Google Analytics_web performance.ipynb
 이탈율(Bounce Rate), 종료율(Exit Rate), 잔존율(Retention Rate)  
 매출전환율, 전환퍼널분석
-
+#### 과거 30일간 일별 페이지 조회수 및 30일 평균 일별 페이지 조회수
+![newplot](https://user-images.githubusercontent.com/24906028/182117451-a5c07837-b212-467d-9a35-6f4cf2d53198.png)
+#### 일자별 세션의 매출 전환율과 매출액
+![newplot (1)](https://user-images.githubusercontent.com/24906028/182117637-eee067c4-8c22-422c-a405-d01de53ee14d.png)
+![newplot (2)](https://user-images.githubusercontent.com/24906028/182117650-707bb692-131b-4743-927d-aba3745eac14.png)
+#### 채널별 월별 세션의 매출 전환율
+![newplot (3)](https://user-images.githubusercontent.com/24906028/182117680-b3cf6101-6137-430c-b653-5cca9beb9d28.png)
+#### 채널별 전환 퍼널
+![newplot (4)](https://user-images.githubusercontent.com/24906028/182142704-547e5f1e-6b44-4f03-990d-8ac3f3becf9a.png)
+![newplot (5)](https://user-images.githubusercontent.com/24906028/182142733-82e46983-7845-41a9-a66b-52c2628a5ff4.png)
 
